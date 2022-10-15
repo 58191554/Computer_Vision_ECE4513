@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import ginput
 
+# points are used to pre-sample the parallel lines
 POINTS = [
     # x1, y1, x2, y2
     [1114.166666666667, 1125.5952380952383, 1441.7857142857147, 1140.8333333333337], 
@@ -167,8 +168,8 @@ def get_intrinsic(vps:list):
 
     # get f, u0, v0
     f = np.sqrt(1/b[0])
-    u0 = np.sqrt(-np.square(f)*b[1])
-    v0 = np.sqrt(-np.square(f)*b[2])
+    u0 = -np.square(f)*b[1]
+    v0 = -np.square(f)*b[2]
 
     print("intrinsic argument solved, f = {}, u0 = {}, v0 = {}\n".format(f, u0, v0))
     K = np.array([
@@ -206,7 +207,7 @@ def get_rotationM(vps:list, K:np.ndarray):
 
 if __name__ == "__main__":
     im = plt.imread('./kyoto_street.JPG')
-    vps = getVanishingPoint(im, manul=False)
+    vps = getVanishingPoint(im, manul=True)
     K = get_intrinsic(vps)
     
     # set the vanishing point as the given order:[right:X, vertival:Y, left:Z]
