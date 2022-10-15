@@ -2,8 +2,9 @@
 This is the Course Project from Long Gang Zhong Wen Da University, feel free to learn:)
 
 # Slides
+Professor Li Zhen in CUHKSZ
 
-#Homework
+# Homework
 1. linear filter, convolution, and perspective geometry 
 
 # Project
