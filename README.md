@@ -4,7 +4,7 @@ This is the Course Project from Long Gang Zhong Wen Da University, feel free to 
 # Slides
 
 #Homework
-1. 
+1. linear filter, convolution, and perspective geometry 
 
 # Project
 
