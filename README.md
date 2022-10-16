@@ -1,5 +1,5 @@
 # Computer_Vision_longda
-This is the Course Project from CUHKSZ, feel free to learn:)
+This is the 2022 Fall Course Project from CUHKSZ, feel free to learn:)
 
 # Slides
 Professor Li Zhen in CUHKSZ
