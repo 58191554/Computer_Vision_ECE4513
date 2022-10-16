@@ -1,5 +1,5 @@
 # Computer_Vision_longda
-This is the Course Project from Long Gang Zhong Wen Da University, feel free to learn:)
+This is the Course Project from CUHKSZ, feel free to learn:)
 
 # Slides
 Professor Li Zhen in CUHKSZ
