@@ -6,7 +6,7 @@ Tong Zhen 120090694
 
 ### Problem 1 Lighting (20 points)
 
-![image-20221120005925388](pics\image-20221120005925388.png)
+![image-20221120005925388](\pics\image-20221120005925388.png)
 
 #### A. 
 
