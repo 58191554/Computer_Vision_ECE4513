@@ -7,6 +7,7 @@ Professor Li Zhen in CUHKSZ
 # Homework
 1. linear filter, convolution, and perspective geometry 
 2. light and shadow and Fourier Transform
+3. Gaussian and Laplacian Pyramid, Edge Detector, Harris Corner Detector and Light Flow Tracker
 
 # Project
 
