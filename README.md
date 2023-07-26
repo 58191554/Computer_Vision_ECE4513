@@ -1,4 +1,4 @@
-# Computer_Vision_longda
+# Computer_Vision_CUHKSZ
 This is the 2022 Fall Course Project from CUHKSZ, feel free to learn:)
 
 # Slides
@@ -10,5 +10,5 @@ Professor Li Zhen in CUHKSZ
 3. Gaussian and Laplacian Pyramid, Edge Detector, Harris Corner Detector and Light Flow Tracker
 
 # Project
-visit our project: https://github.com/ECE-Img-Inpainting/Examplar-based
-# UCB Computer Vision Course
+visit our final project: https://github.com/ECE-Img-Inpainting/Examplar-based
+
